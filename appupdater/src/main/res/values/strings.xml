@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppUpdater</string>
+    <string name="app_updater_update_available">New update available!</string>
+    <string name="app_updater_btn_update">Update</string>
+    <string name="app_updater_btn_later">Later</string>
+    <string name="app_updater_update_available_description_dialog">Update %1$s is available to download. Downloading the latest update you will get the latest features, improvements and bug fixes for %2$s.</string>
+    <string name="app_updater_update_available_description_dialog_before_release_notes">Update %1$s is available to download.\n\nYou can get this new features:\n%2$s</string>
+    <string name="app_updater_update_not_available_description">You\'ve got the latest version available of %s!</string>
+    <string name="app_updater_update_not_available">No updates available</string>
+</resources>
